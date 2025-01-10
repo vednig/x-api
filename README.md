@@ -18,6 +18,10 @@ Unofficial X API using Selenium and FastApi
 
 **Note: To run in production use WSGI or ASGI servers**
 
+# Features & Roadmap
+- Currently API returns only the required contents for particular person(a.k.a the author) in whole thread
+- Additional Requests can also be added, to provide compatibility with X official API upon request and usecase
+
 ## Debugging/Errors
 If you're facing error or issues during build open up an issue.
 
