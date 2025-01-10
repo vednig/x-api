@@ -19,7 +19,7 @@ Unofficial X API using Selenium and FastApi
 **Note: To run in production use WSGI or ASGI servers**
 
 # Features & Roadmap
-- Currently API returns only the required contents for particular person(a.k.a the author) in whole thread
+- Currently API returns only the required contents for particular person(a.k.a the author) in whole thread as required for [Unlaceapp](https://github.com/vednig/unlaceapp)
 - Additional Requests can also be added, to provide compatibility with X official API upon request and usecase
 
 ## Debugging/Errors
